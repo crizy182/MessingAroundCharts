@@ -1,0 +1,22 @@
+body {
+  background-color: #fff;
+}
+font-family: "Helvetica Neue",
+sans-serif,
+.dot {
+  stroke-width: 1px;
+  fill-opacity: 0.6;
+}
+.dot.a {
+  stroke: #4682b4;
+  fill: #4682b4;
+}
+.dot.b {
+  stroke: #ff6347;
+  fill: #ff6347;
+}
+.connect-line {
+  stroke: #ccc;
+  stroke-width: 1px;
+}
+
